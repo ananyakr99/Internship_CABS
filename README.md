@@ -8,4 +8,4 @@ Outlining my project/internship for CABS in 2020-2021
 5. Project #5: Implemented Mask RCNNs on the Kaggle Airbus Challenge Dataset (mask_rcnn.ipynb)
 6. Project #6: Implementation of YOLO on Marvel dataset (in progress)
 
-All the presentations and research papers referred to are available in the Reports folder.
+All the presentations and research papers referred to are available in the Research_and_Reports folder.
