@@ -6,6 +6,7 @@ Outlining my project/internship for CABS in 2020-2021
 3. Project #3: Implentation of RCNN using Racoon dataset
 4. Project #4: Tried basic Face Detection using RCNNs
 5. Project #5: Implemented Mask RCNNs on the Kaggle Airbus Challenge Dataset (mask_rcnn.ipynb)
-6. Project #6: Implementation of YOLO on Marvel dataset (in progress)
+6. Project #6: Implementation of YOLO on Marvel dataset (YOLOv4_Marvel.ipynb)
+7. Project #7: Implementation of CNN Classifier on Marvel dataset (Classifier_Marvel.ipynb)
 
 All the presentations and research papers referred to are available in the Research_and_Reports folder.
